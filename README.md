@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HassanAkhtar8
-- 👀 I’m interested in coding i guess.
-- 🌱 I’m currently learning javascript and c language.
+- 👀 I’m interested in coding.
+- 🌱 I am currently learning web development and I just learned the basics of C language.
 - 💞️ I’m looking to collaborate on ... not yet.
 - 📫 How to reach me ... email: ha9065750@gmail.com
 

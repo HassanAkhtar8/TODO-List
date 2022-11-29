@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @HassanAkhtar8
-- 👀 I’m interested in coding.
-- 🌱 I am currently learning web development and I just learned the basics of C language.
-- 💞️ I’m looking to collaborate on ... not yet.
-- 📫 How to reach me ... email: ha9065750@gmail.com
+- To do list Project
 
-<!---
-HassanAkhtar8/HassanAkhtar8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* I have completed this project while following an online tutorial on youtube
+* This tutorial is avaialble on youtube channel name: freecodecamp
+* It took me 3 days to complete this project
+* I spent 2 hour a day on this project
+* I have used this tutorail for guidline purpose as I had most of the knowledge required to complete this project
+
+- Things I learned
+
+* I knew alot while I started this project but I learned some new things as well
+* I got to use my theoratical knowledge in this project and gained real use-case of many topics
+* I used setTimeout method in this project before that I only had theoratical knowledge about it and used to confuse setTimeout and setTimeIntervel method
+* I played alot with parent and children elements and tried to understand their relationship
+
+- Special Thanks
+
+* I wanted to thanks Jhon Smilga for the youtube tutorial
+* I also appreciate the work of freecodecamp.org for providing free content on youtube

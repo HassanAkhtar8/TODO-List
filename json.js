@@ -114,7 +114,6 @@ function setBackToDefault(){
 // add to local storage
 function addToLocalStorage(id, value){
 const grocery = {id, value};
-console.log(grocery);
 let arr = getArr();
 arr.push(grocery);
 localStorage.setItem("list",JSON.stringify(arr));
